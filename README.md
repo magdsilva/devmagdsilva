@@ -1,5 +1,3 @@
-# devmagdsilva
-
 # Olá, eu sou Marcus! 👋
 
 Sou **Desenvolvedor Backend** com experiência em **JavaScript**, **TypeScript**, **AWS Lambda**, **CloudWatch**, **DynamoDB**, **API Gateway** e **Athena**. Tenho experiência em **web scraping** utilizando **Puppeteer** e **Selenium**, **criação de APIs**, e **testes automatizados** com **Jest**. Estou sempre em busca de novos desafios para aplicar minhas habilidades e evoluir como profissional.
