@@ -33,5 +33,3 @@ Sou **Desenvolvedor Backend** com experiência em **JavaScript**, **TypeScript**
 - E-mail: [magsilva1986@gmail.com](mailto:[magsilva1986@gmail.com)
 
 ---
-
-✨ Sempre em busca de novos desafios e oportunidades! Vamos conversar!
