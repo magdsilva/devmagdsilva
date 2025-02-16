@@ -25,11 +25,11 @@ Sou **Desenvolvedor Backend** com experiência em **JavaScript**, **TypeScript**
 
 ## 📚 Projetos Recentes
 
-- **[Nome do Projeto 1](https://www.fila-zero.com)**: Sistema de gestão para regulação de procedimentos voltados a saúde pública, permitindo mais agilidade, tranparência e facilidade aos usuários do Sistema Único de Saúde e o orgãos competentes.
+- **[Fila-zero](https://www.fila-zero.com)**: Sistema de gestão para regulação de procedimentos voltados a saúde pública, permitindo mais agilidade, tranparência e facilidade aos usuários do Sistema Único de Saúde e o orgãos competentes.
 
 ## 📬 Como Entrar em Contato
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/devmagdsilva/)
+- LinkedIn: [devmagdsilva](https://www.linkedin.com/in/devmagdsilva/)
 - E-mail: [magsilva1986@gmail.com](mailto:[magsilva1986@gmail.com)
 
 ---
