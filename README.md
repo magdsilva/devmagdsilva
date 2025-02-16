@@ -26,6 +26,7 @@ Sou **Desenvolvedor Backend** com experiência em **JavaScript**, **TypeScript**
 ## 📚 Projetos Recentes
 
 - **[Fila-zero](https://www.fila-zero.com)**: Sistema de gestão para regulação de procedimentos voltados a saúde pública, permitindo mais agilidade, tranparência e facilidade aos usuários do Sistema Único de Saúde e o orgãos competentes.
+- - **[API + CRAWLER](https://github.com/magdsilva/monitoring-price)**: Aplicação feita utilizando um crawler para consultar cotação do dólar, euro e ações da petrobrás e devolver através de uma request com API. Integrando assim um crawler + API.
 
 ## 📬 Como Entrar em Contato
 
